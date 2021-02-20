@@ -1,2 +1,2 @@
 # calcolo-numerico
-script matlab realizzati per il corso di calcolo numerico
+script MATLAB realizzati per il corso di Calcolo Numerico
